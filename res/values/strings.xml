@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Transparent dialog-host activity demo</string>
+    <string name="todo_list_name">To Do list</string>
+    <string name="todo_items">All To Dos</string>
+    <string name="empty_todo_list">Nothing to do</string>
+    <string name="create_new_todo">Create a new To Do</string>
+    <string name="save">Save</string>
+    <string name="create_todo_title">Create a new To Do</string>
+    <string name="edit_todo_title">Edit To Do</string>
+    <string name="enter_todo_name">To Do name:</string>
+    <string name="pick_todo_date">To Do due date:</string>
+    <string name="saving_todo">Saving To Do...</string>
+    <string name="deleting_todo">Deleting To Do...</string>
+    <string name="todo_created">New To Do created!</string>
+    <string name="todo_updated">To Do updated!</string>
+    <string name="todo_deleted">To Do deleted!</string>
+    <string name="confirm_delete_title">Confirm Delete</string>
+    <string name="confirm_delete_message">Do you really want to delete this To Do item?</string>
+    <string name="create_today_todo_menu">Create a To Do</string>
+    <string name="context_edit_todo_name">Edit To Do Name</string>
+    <string name="context_delete_todo">Delete</string>
+</resources>
